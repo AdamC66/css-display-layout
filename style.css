@@ -62,8 +62,10 @@ section{
     margin: 0 auto;
 }
 .centerme{
+    display: flex;
     margin: 0 auto;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .picturebox{
